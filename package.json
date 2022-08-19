@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  },
+  "scripts": {
+    "server": "node server.js"
+  },
+  "name": "entertainment-web-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:fliptv97/entertainment-web-app.git",
+  "author": "Philip Kazakov <fliptv97@gmail.com>",
+  "license": "MIT"
+}
